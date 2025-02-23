@@ -1,0 +1,24 @@
+{
+  "key.lightweight-inventory-sorting.sort": "Posortuj bieżący pojemnik/ekwipunek",
+
+  "category.lightweight-inventory-sorting.title": "Lightweight Inventory Sorting",
+
+  "category.lightweight-inventory-sorting.general": "Ustawienia ogólne",
+
+  "category.lightweight-inventory-sorting.sort-options": "Opcje sortowania",
+  "category.lightweight-inventory-sorting.sort-type": "Typ sortowania",
+  "category.lightweight-inventory-sorting.sort-type-tooltip": "Alfanumerycznie (A-Z), alfanumerycznie malejąco (Z-A), lub po surowym ID",
+  "category.lightweight-inventory-sorting.sort-delay": "Opóźnienie sortowania",
+  "category.lightweight-inventory-sorting.sort-delay-tooltip": "Zwiększa opóźnienie między kolejnymi krokami sortowania (przydatne aby zapobiec błędom na serwerach wieloosobowych)",
+
+  "category.lightweight-inventory-sorting.button-options": "Opcje przycisku",
+  "category.lightweight-inventory-sorting.button-size": "Rozmiar przycisku",
+  "category.lightweight-inventory-sorting.inventory-x": "Przesunięcie w osi X w ekwipunku",
+  "category.lightweight-inventory-sorting.inventory-x-tooltip": "Wartość dodatnia przesuwa w prawo, wartość ujemna w lewo",
+  "category.lightweight-inventory-sorting.inventory-y": "Przesunięcie w osi Y w ekwipunku",
+  "category.lightweight-inventory-sorting.inventory-y-tooltip": "Wartość dodatnia przesuwa w dół, wartość ujemna w górę",
+  "category.lightweight-inventory-sorting.container-x": "Przesunięcie w osi X w pojemniku",
+  "category.lightweight-inventory-sorting.container-x-tooltip": "Wartość dodatnia przesuwa w prawo, wartość ujemna w lewo",
+  "category.lightweight-inventory-sorting.container-y": "Przesunięcie w osi Y w pojemniku",
+  "category.lightweight-inventory-sorting.container-y-tooltip": "Wartość dodatnia przesuwa w dół, wartość ujemna w górę"
+}
