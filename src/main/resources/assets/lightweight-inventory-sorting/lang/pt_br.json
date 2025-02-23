@@ -7,7 +7,7 @@
 
   "category.lightweight-inventory-sorting.sort-options": "Opções de organização",
   "category.lightweight-inventory-sorting.sort-type": "Tipo de organização",
-  "category.lightweight-inventory-sorting.sort-type-tooltip": "Alfanumérico (A-Z) ou Alfanumérico reverso (Z-A)",
+  "category.lightweight-inventory-sorting.sort-type-tooltip": "Alfanumérico (A-Z), Alfanumérico reverso (Z-A), ou por ID padrão ou bruto",
   "category.lightweight-inventory-sorting.sort-delay": "Atraso de organização",
   "category.lightweight-inventory-sorting.sort-delay-tooltip": "Aumenta o atraso entre etapas de organização (útil para erros em servidores multiplayer)",
 

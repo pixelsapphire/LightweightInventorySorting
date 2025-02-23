@@ -7,7 +7,7 @@
 
   "category.lightweight-inventory-sorting.sort-options": "Opcje sortowania",
   "category.lightweight-inventory-sorting.sort-type": "Typ sortowania",
-  "category.lightweight-inventory-sorting.sort-type-tooltip": "Alfanumerycznie (A-Z), alfanumerycznie malejąco (Z-A), lub po surowym ID",
+  "category.lightweight-inventory-sorting.sort-type-tooltip": "Alfanumerycznie (A-Z), alfanumerycznie malejąco (Z-A), albo po słownym lub surowym ID",
   "category.lightweight-inventory-sorting.sort-delay": "Opóźnienie sortowania",
   "category.lightweight-inventory-sorting.sort-delay-tooltip": "Zwiększa opóźnienie między kolejnymi krokami sortowania (przydatne aby zapobiec błędom na serwerach wieloosobowych)",
 
